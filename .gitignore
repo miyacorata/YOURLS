@@ -57,3 +57,6 @@ Desktop.ini
 
 # NetBeans files
 /nbproject/
+
+# idea
+/.idea
