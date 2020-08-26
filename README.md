@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://yourls.org">
-    <img src="images/yourls-logo.png" alt="YOURLS">
+    <img src="images/yourls-logo.svg" width=66% alt="YOURLS">
   </a>
 </h1>
 
@@ -20,13 +20,11 @@ Learn more tweaks in the [Wiki documentation](https://github.com/YOURLS/YOURLS/w
 ## Community news, tips and tricks
 
 * Read and subscribe to the [The Official YOURLS Blog](http://blog.yourls.org)
-* Follow [@yourls](https://twitter.com/yourls) on Twitter
 * Subscribe to the [YOURLS User Newsletter](https://yourls.org/newsletter) (infrequent, low volume)
 
 
 ## Keep track of development
 
-* Follow [@yourls_dev](https://twitter.com/yourls_dev)
 * Check [commit messages](https://github.com/YOURLS/YOURLS/commits/master)
 * Check the [Road map](https://github.com/orgs/YOURLS/projects/1)
 
